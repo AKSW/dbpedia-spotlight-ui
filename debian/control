@@ -1,0 +1,16 @@
+Source: dbpedia-spotlight-ui
+Section: misc
+Priority: extra
+Maintainer: Sebastian Tramp <tramp@informatik.uni-leipzig.de>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.9.3
+Homepage: https://github.com/dbpedia-spotlight/demo
+Vcs-Git: git://github.com/dbpedia-spotlight/demo.git
+Vcs-Browser: https://github.com/dbpedia-spotlight/demo
+
+Package: dbpedia-spotlight-ui
+Architecture: all
+Depends: apache2, ${misc:Depends}
+Description: Demo UI to demonstrate DBpedia Spotlight's web service
+ This is the web application demo code for DBpedia Spotlight.
+

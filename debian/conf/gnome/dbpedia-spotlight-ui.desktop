@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=DBpedia Spotlight UI
+Comment=Interface for the DBpedia Spotlight Annotator
+Exec=gnome-www-browser http://localhost/dbpedia-spotlight-ui/
+Terminal=false
+Type=Application
+Icon=/usr/share/dbpedia-spotlight-ui/dbpedia_spotlight_logo.jpg
+Categories=Utility;Application
+StartupNotify=false

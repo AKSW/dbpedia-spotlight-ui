@@ -1,0 +1,38 @@
+This work was packaged for Debian by:
+
+    Sebastian Tramp <tramp@informatik.uni-leipzig.de> on Tue, 13 Jun 2013 15:37:27 +0100
+
+It was downloaded from:
+
+    <https://github.com/AKSW/dbpedia-spotlight-ui>
+
+Upstream Author(s):
+
+    Joachim Daiber
+    Max Jakob
+    Pablo Mendes
+
+Copyright:
+
+    <Copyright (C) 2013 Joachim Daiber>
+    <Copyright (C) 2013 Max Jakob>
+    <Copyright (C) 2013 Pablo Mendes>
+
+License:
+
+   This package is free software; you can redistribute it and/or modify
+   it under the terms of the Apache License 2.0 as published by the Apache
+   Foundation.
+
+   On Debian systems, the complete text of the Apache License version 2.0
+   can be found in "/usr/share/common-licenses/Apache-2.0".
+
+The Debian packaging is:
+
+    Copyright (C) 2012 Sebastian Tramp <tramp@informatik.uni-leipzig.de>
+
+you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+

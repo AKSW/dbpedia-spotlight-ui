@@ -1,0 +1,8 @@
+dbpedia-spotlight-ui (0.1) lod2; urgency=low
+
+  * initial debian package from git revision 6261906:
+    commit 6261906ee918678c5e6f82adb53c77b29cd842b2
+    Author: Jo Daiber <jodaiber@gmx.de>
+    Date:   Tue Jun 18 15:15:47 2013 +0300
+
+ -- Sebastian Tramp <tramp@informatik.uni-leipzig.de>  Thu, 20 Jun 2013 10:44:18 +0200
