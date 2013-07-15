@@ -1,8 +1,0 @@
-#!/bin/sh -e
-# prerm script
-
-# http://wiki.debian.org/Apache/PackagingModules
-if [ "$1" = remove ] ; then
-    invoke-rc.d apache2 restart
-fi
-
