@@ -1,3 +1,10 @@
+dbpedia-spotlight-ui (0.1.1) lod2; urgency=low
+
+  * fix package installation
+  * fix copyright file
+
+ -- Sebastian Tramp <tramp@informatik.uni-leipzig.de>  Mon, 15 Jul 2013 14:06:36 +0200
+
 dbpedia-spotlight-ui (0.1) lod2; urgency=low
 
   * initial debian package from git revision 6261906:

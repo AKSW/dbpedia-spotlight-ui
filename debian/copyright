@@ -1,38 +1,22 @@
-This work was packaged for Debian by:
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: DBpedia Spotlight Demo
+Source: https://github.com/dbpedia-spotlight/demo
 
-    Sebastian Tramp <tramp@informatik.uni-leipzig.de> on Tue, 13 Jun 2013 15:37:27 +0100
-
-It was downloaded from:
-
-    <https://github.com/AKSW/dbpedia-spotlight-ui>
-
-Upstream Author(s):
-
-    Joachim Daiber
-    Max Jakob
-    Pablo Mendes
-
+Files: *
 Copyright:
+    2013 Joachim Daiber
+    2013 Max Jakob
+    2013 Pablo Mendes
+License: Apache-2.0
+ Apache License 2.0
+ http://www.opensource.org/licenses/Apache-2.0
 
-    <Copyright (C) 2013 Joachim Daiber>
-    <Copyright (C) 2013 Max Jakob>
-    <Copyright (C) 2013 Pablo Mendes>
 
-License:
+Files: debian/*
+Copyright:
+    2013 Sebastian Tramp
+License: Apache-2.0
+ Apache License 2.0
+ http://www.opensource.org/licenses/Apache-2.0
 
-   This package is free software; you can redistribute it and/or modify
-   it under the terms of the Apache License 2.0 as published by the Apache
-   Foundation.
-
-   On Debian systems, the complete text of the Apache License version 2.0
-   can be found in "/usr/share/common-licenses/Apache-2.0".
-
-The Debian packaging is:
-
-    Copyright (C) 2012 Sebastian Tramp <tramp@informatik.uni-leipzig.de>
-
-you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation; either version 2 of the License, or
-(at your option) any later version.
 
