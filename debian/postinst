@@ -1,6 +1,8 @@
 #!/bin/sh -e
 # postinst script
 
+rm -f /etc/apache2/conf.d/dbpedia-spotlight-ui
+ln -s /etc/dbpedia-spotlight-ui/apache.conf /etc/apache2/conf.d/dbpedia-spotlight-ui
 # http://wiki.debian.org/Apache/PackagingModules
 if [ "$1" = configure ] ; then
     invoke-rc.d apache2 restart
